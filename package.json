@@ -7,12 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-<<<<<<< HEAD
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"
-=======
-    "preview": "vite preview"
->>>>>>> 4ab85a3246a5e2f3e0f5b570ba1d94f0c5784734
   },
   "dependencies": {
     "react": "^19.2.0",
@@ -26,10 +22,7 @@
     "eslint": "^9.39.1",
     "eslint-plugin-react-hooks": "^7.0.1",
     "eslint-plugin-react-refresh": "^0.4.24",
-<<<<<<< HEAD
     "gh-pages": "^6.3.0",
-=======
->>>>>>> 4ab85a3246a5e2f3e0f5b570ba1d94f0c5784734
     "globals": "^16.5.0",
     "vite": "^7.2.4"
   }
